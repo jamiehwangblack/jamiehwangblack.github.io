@@ -1,1 +1,1 @@
-Art, Music, Video Game, Tattoos, Korean
+황재연 | South Korean Artist
