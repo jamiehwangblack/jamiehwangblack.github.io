@@ -1,1 +1,1 @@
-황재연 | South Korean Artist
+황재연. South Korean Artist.
