@@ -5,12 +5,12 @@ description: "Portfolio Website" # This will show up in places like twitter, lin
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "jamiehwangblack@gmail.com"
-twitter_username: "jamiehwangblack"
+#twitter_username: "jamiehwangblack"
 #github_username: "jamiehwangblack"
 #linkedin_username: "jamiehwangblack"
 #facebook_username: username
 #flickr_username: username
-instagram_username: "jamiehwangblack"
+#instagram_username: "jamiehwangblack"
 #pinterest_username: username
 #youtube_username: "jamiehwangblack"
 #googleplus_username: +username
