@@ -1,1 +1,1 @@
-황재연. South Korean Artist.
+I am an artist from Daejeon, South Korea. Currently located in Chicago.
