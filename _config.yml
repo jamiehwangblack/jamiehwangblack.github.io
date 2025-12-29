@@ -20,7 +20,7 @@ email: "jamiehwangblack@gmail.com"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss commenting out rss icon
 
 kramdown:
   syntax_highlighter_opts:
