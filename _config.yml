@@ -1,5 +1,4 @@
 title: "JAMIE HWANG-BLACK"
-author: "Jamie Hwang-Black"
 description: "Portfolio Website" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -20,14 +19,11 @@ email: "jamiehwangblack@gmail.com"
 #########################################################################################
 theme: "minima"
 
-# rss: rss commenting out rss icon
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
     
 plugins:
- # - jekyll-feed commenting out plugin
   - jekyll-sitemap
 
 titles_from_headings:
